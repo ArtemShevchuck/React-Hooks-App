@@ -1,3 +1,6 @@
+#About App
+Search with GitHub API + React Hooks + Bootstrap
+
 # Deploy on:
 https://react-github-f740b.web.app/
 
